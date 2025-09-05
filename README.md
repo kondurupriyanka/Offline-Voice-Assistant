@@ -13,6 +13,8 @@ A simple **offline voice assistant** built in Python. It can **record your voice
 
 ---
 
+![Voice Assistant Running](speech_op.jgg)
+
 ## Installation
 
 1. Clone or download the repository.  
